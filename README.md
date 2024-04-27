@@ -5,6 +5,6 @@ Main codes and data contains:
 - Hourly prices of BTC, ETH, LTC, XRP and BCH data in csv
 - Main codes in R
 
-Figure 2 codes and data:
+Figure 2 codes and data contains:
 - Observed volatility of BTC, ETH, LTC, XRP and BCH during pre-COVID and COVID period in csv
 - Codes to reproduce Figure 2 in Python
